@@ -5,7 +5,6 @@
 
 
 
-
 import torch.nn as nn
 from models.encoder import CNNEncoder
 from models.decoder import CNNDecoder
